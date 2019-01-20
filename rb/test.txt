@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 I am the first line.
 I am the second line.
 I am the third line.
+=======
+This is a test file.
+This is a test file2.
+This is a test file3.
+>>>>>>> aa3d47c0355f6918d27c6b4eb564ec7544f933cb
